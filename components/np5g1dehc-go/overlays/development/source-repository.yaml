@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: np5g1dehc-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/np5g1dehc-go
